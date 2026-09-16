@@ -1,0 +1,9 @@
+com/auriga/giftpool/model/Models$PoolResponse.class
+com/auriga/giftpool/model/Models.class
+com/auriga/giftpool/GiftPoolApplication.class
+com/auriga/giftpool/model/Models$Settlement.class
+com/auriga/giftpool/model/Models$Contribution.class
+com/auriga/giftpool/model/Models$MemberBreakdown.class
+com/auriga/giftpool/service/PoolService.class
+com/auriga/giftpool/controller/PoolController.class
+com/auriga/giftpool/model/Models$EmailLog.class
